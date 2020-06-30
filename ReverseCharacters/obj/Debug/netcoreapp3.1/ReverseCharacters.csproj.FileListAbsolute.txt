@@ -1,0 +1,12 @@
+C:\Users\жоро\Documents\на коце\programirane\Exercises\ReverseCharacters\bin\Debug\netcoreapp3.1\ReverseCharacters.exe
+C:\Users\жоро\Documents\на коце\programirane\Exercises\ReverseCharacters\bin\Debug\netcoreapp3.1\ReverseCharacters.deps.json
+C:\Users\жоро\Documents\на коце\programirane\Exercises\ReverseCharacters\bin\Debug\netcoreapp3.1\ReverseCharacters.runtimeconfig.json
+C:\Users\жоро\Documents\на коце\programirane\Exercises\ReverseCharacters\bin\Debug\netcoreapp3.1\ReverseCharacters.runtimeconfig.dev.json
+C:\Users\жоро\Documents\на коце\programirane\Exercises\ReverseCharacters\bin\Debug\netcoreapp3.1\ReverseCharacters.dll
+C:\Users\жоро\Documents\на коце\programirane\Exercises\ReverseCharacters\bin\Debug\netcoreapp3.1\ReverseCharacters.pdb
+C:\Users\жоро\Documents\на коце\programirane\Exercises\ReverseCharacters\obj\Debug\netcoreapp3.1\ReverseCharacters.csproj.CoreCompileInputs.cache
+C:\Users\жоро\Documents\на коце\programirane\Exercises\ReverseCharacters\obj\Debug\netcoreapp3.1\ReverseCharacters.AssemblyInfoInputs.cache
+C:\Users\жоро\Documents\на коце\programirane\Exercises\ReverseCharacters\obj\Debug\netcoreapp3.1\ReverseCharacters.AssemblyInfo.cs
+C:\Users\жоро\Documents\на коце\programirane\Exercises\ReverseCharacters\obj\Debug\netcoreapp3.1\ReverseCharacters.dll
+C:\Users\жоро\Documents\на коце\programirane\Exercises\ReverseCharacters\obj\Debug\netcoreapp3.1\ReverseCharacters.pdb
+C:\Users\жоро\Documents\на коце\programirane\Exercises\ReverseCharacters\obj\Debug\netcoreapp3.1\ReverseCharacters.genruntimeconfig.cache

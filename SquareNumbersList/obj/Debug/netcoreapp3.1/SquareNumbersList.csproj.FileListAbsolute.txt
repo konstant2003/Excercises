@@ -1,0 +1,13 @@
+C:\Users\жоро\Documents\на коце\programirane\Exercises\SquareNumbersList\bin\Debug\netcoreapp3.1\SquareNumbersList.exe
+C:\Users\жоро\Documents\на коце\programirane\Exercises\SquareNumbersList\bin\Debug\netcoreapp3.1\SquareNumbersList.deps.json
+C:\Users\жоро\Documents\на коце\programirane\Exercises\SquareNumbersList\bin\Debug\netcoreapp3.1\SquareNumbersList.runtimeconfig.json
+C:\Users\жоро\Documents\на коце\programirane\Exercises\SquareNumbersList\bin\Debug\netcoreapp3.1\SquareNumbersList.runtimeconfig.dev.json
+C:\Users\жоро\Documents\на коце\programirane\Exercises\SquareNumbersList\bin\Debug\netcoreapp3.1\SquareNumbersList.dll
+C:\Users\жоро\Documents\на коце\programirane\Exercises\SquareNumbersList\bin\Debug\netcoreapp3.1\SquareNumbersList.pdb
+C:\Users\жоро\Documents\на коце\programirane\Exercises\SquareNumbersList\obj\Debug\netcoreapp3.1\SquareNumbersList.csprojAssemblyReference.cache
+C:\Users\жоро\Documents\на коце\programirane\Exercises\SquareNumbersList\obj\Debug\netcoreapp3.1\SquareNumbersList.csproj.CoreCompileInputs.cache
+C:\Users\жоро\Documents\на коце\programirane\Exercises\SquareNumbersList\obj\Debug\netcoreapp3.1\SquareNumbersList.AssemblyInfoInputs.cache
+C:\Users\жоро\Documents\на коце\programirane\Exercises\SquareNumbersList\obj\Debug\netcoreapp3.1\SquareNumbersList.AssemblyInfo.cs
+C:\Users\жоро\Documents\на коце\programirane\Exercises\SquareNumbersList\obj\Debug\netcoreapp3.1\SquareNumbersList.dll
+C:\Users\жоро\Documents\на коце\programirane\Exercises\SquareNumbersList\obj\Debug\netcoreapp3.1\SquareNumbersList.pdb
+C:\Users\жоро\Documents\на коце\programirane\Exercises\SquareNumbersList\obj\Debug\netcoreapp3.1\SquareNumbersList.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\жоро\Documents\на коце\programirane\Exercises\ReverseArrayStr\bin\Debug\netcoreapp3.1\ReverseArrayStr.exe
+C:\Users\жоро\Documents\на коце\programirane\Exercises\ReverseArrayStr\bin\Debug\netcoreapp3.1\ReverseArrayStr.deps.json
+C:\Users\жоро\Documents\на коце\programirane\Exercises\ReverseArrayStr\bin\Debug\netcoreapp3.1\ReverseArrayStr.runtimeconfig.json
+C:\Users\жоро\Documents\на коце\programirane\Exercises\ReverseArrayStr\bin\Debug\netcoreapp3.1\ReverseArrayStr.runtimeconfig.dev.json
+C:\Users\жоро\Documents\на коце\programirane\Exercises\ReverseArrayStr\bin\Debug\netcoreapp3.1\ReverseArrayStr.dll
+C:\Users\жоро\Documents\на коце\programirane\Exercises\ReverseArrayStr\bin\Debug\netcoreapp3.1\ReverseArrayStr.pdb
+C:\Users\жоро\Documents\на коце\programirane\Exercises\ReverseArrayStr\obj\Debug\netcoreapp3.1\ReverseArrayStr.csproj.CoreCompileInputs.cache
+C:\Users\жоро\Documents\на коце\programirane\Exercises\ReverseArrayStr\obj\Debug\netcoreapp3.1\ReverseArrayStr.AssemblyInfoInputs.cache
+C:\Users\жоро\Documents\на коце\programirane\Exercises\ReverseArrayStr\obj\Debug\netcoreapp3.1\ReverseArrayStr.AssemblyInfo.cs
+C:\Users\жоро\Documents\на коце\programirane\Exercises\ReverseArrayStr\obj\Debug\netcoreapp3.1\ReverseArrayStr.dll
+C:\Users\жоро\Documents\на коце\programirane\Exercises\ReverseArrayStr\obj\Debug\netcoreapp3.1\ReverseArrayStr.pdb
+C:\Users\жоро\Documents\на коце\programirane\Exercises\ReverseArrayStr\obj\Debug\netcoreapp3.1\ReverseArrayStr.genruntimeconfig.cache

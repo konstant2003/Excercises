@@ -1,0 +1,13 @@
+C:\Users\жоро\Documents\на коце\programirane\Exercises\Divide by 7 and 5\bin\Debug\netcoreapp3.1\Divide by 7 and 5.exe
+C:\Users\жоро\Documents\на коце\programirane\Exercises\Divide by 7 and 5\bin\Debug\netcoreapp3.1\Divide by 7 and 5.deps.json
+C:\Users\жоро\Documents\на коце\programirane\Exercises\Divide by 7 and 5\bin\Debug\netcoreapp3.1\Divide by 7 and 5.runtimeconfig.json
+C:\Users\жоро\Documents\на коце\programirane\Exercises\Divide by 7 and 5\bin\Debug\netcoreapp3.1\Divide by 7 and 5.runtimeconfig.dev.json
+C:\Users\жоро\Documents\на коце\programirane\Exercises\Divide by 7 and 5\bin\Debug\netcoreapp3.1\Divide by 7 and 5.dll
+C:\Users\жоро\Documents\на коце\programirane\Exercises\Divide by 7 and 5\bin\Debug\netcoreapp3.1\Divide by 7 and 5.pdb
+C:\Users\жоро\Documents\на коце\programirane\Exercises\Divide by 7 and 5\obj\Debug\netcoreapp3.1\Divide by 7 and 5.csprojAssemblyReference.cache
+C:\Users\жоро\Documents\на коце\programirane\Exercises\Divide by 7 and 5\obj\Debug\netcoreapp3.1\Divide by 7 and 5.csproj.CoreCompileInputs.cache
+C:\Users\жоро\Documents\на коце\programirane\Exercises\Divide by 7 and 5\obj\Debug\netcoreapp3.1\Divide by 7 and 5.AssemblyInfoInputs.cache
+C:\Users\жоро\Documents\на коце\programirane\Exercises\Divide by 7 and 5\obj\Debug\netcoreapp3.1\Divide by 7 and 5.AssemblyInfo.cs
+C:\Users\жоро\Documents\на коце\programirane\Exercises\Divide by 7 and 5\obj\Debug\netcoreapp3.1\Divide by 7 and 5.dll
+C:\Users\жоро\Documents\на коце\programirane\Exercises\Divide by 7 and 5\obj\Debug\netcoreapp3.1\Divide by 7 and 5.pdb
+C:\Users\жоро\Documents\на коце\programirane\Exercises\Divide by 7 and 5\obj\Debug\netcoreapp3.1\Divide by 7 and 5.genruntimeconfig.cache

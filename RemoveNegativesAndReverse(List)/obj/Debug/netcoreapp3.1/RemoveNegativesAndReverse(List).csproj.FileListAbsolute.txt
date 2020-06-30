@@ -1,0 +1,12 @@
+C:\Users\жоро\Documents\на коце\programirane\Exercises\RemoveNegativesAndReverse(List)\bin\Debug\netcoreapp3.1\RemoveNegativesAndReverse(List).exe
+C:\Users\жоро\Documents\на коце\programirane\Exercises\RemoveNegativesAndReverse(List)\bin\Debug\netcoreapp3.1\RemoveNegativesAndReverse(List).deps.json
+C:\Users\жоро\Documents\на коце\programirane\Exercises\RemoveNegativesAndReverse(List)\bin\Debug\netcoreapp3.1\RemoveNegativesAndReverse(List).runtimeconfig.json
+C:\Users\жоро\Documents\на коце\programirane\Exercises\RemoveNegativesAndReverse(List)\bin\Debug\netcoreapp3.1\RemoveNegativesAndReverse(List).runtimeconfig.dev.json
+C:\Users\жоро\Documents\на коце\programirane\Exercises\RemoveNegativesAndReverse(List)\bin\Debug\netcoreapp3.1\RemoveNegativesAndReverse(List).dll
+C:\Users\жоро\Documents\на коце\programirane\Exercises\RemoveNegativesAndReverse(List)\bin\Debug\netcoreapp3.1\RemoveNegativesAndReverse(List).pdb
+C:\Users\жоро\Documents\на коце\programirane\Exercises\RemoveNegativesAndReverse(List)\obj\Debug\netcoreapp3.1\RemoveNegativesAndReverse(List).csproj.CoreCompileInputs.cache
+C:\Users\жоро\Documents\на коце\programirane\Exercises\RemoveNegativesAndReverse(List)\obj\Debug\netcoreapp3.1\RemoveNegativesAndReverse(List).AssemblyInfoInputs.cache
+C:\Users\жоро\Documents\на коце\programirane\Exercises\RemoveNegativesAndReverse(List)\obj\Debug\netcoreapp3.1\RemoveNegativesAndReverse(List).AssemblyInfo.cs
+C:\Users\жоро\Documents\на коце\programirane\Exercises\RemoveNegativesAndReverse(List)\obj\Debug\netcoreapp3.1\RemoveNegativesAndReverse(List).dll
+C:\Users\жоро\Documents\на коце\programirane\Exercises\RemoveNegativesAndReverse(List)\obj\Debug\netcoreapp3.1\RemoveNegativesAndReverse(List).pdb
+C:\Users\жоро\Documents\на коце\programirane\Exercises\RemoveNegativesAndReverse(List)\obj\Debug\netcoreapp3.1\RemoveNegativesAndReverse(List).genruntimeconfig.cache

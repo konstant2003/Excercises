@@ -1,0 +1,12 @@
+C:\Users\жоро\Documents\на коце\programirane\Exercises\SumMnMax(Array)\bin\Debug\netcoreapp3.1\SumMnMax(Array).exe
+C:\Users\жоро\Documents\на коце\programirane\Exercises\SumMnMax(Array)\bin\Debug\netcoreapp3.1\SumMnMax(Array).deps.json
+C:\Users\жоро\Documents\на коце\programirane\Exercises\SumMnMax(Array)\bin\Debug\netcoreapp3.1\SumMnMax(Array).runtimeconfig.json
+C:\Users\жоро\Documents\на коце\programirane\Exercises\SumMnMax(Array)\bin\Debug\netcoreapp3.1\SumMnMax(Array).runtimeconfig.dev.json
+C:\Users\жоро\Documents\на коце\programirane\Exercises\SumMnMax(Array)\bin\Debug\netcoreapp3.1\SumMnMax(Array).dll
+C:\Users\жоро\Documents\на коце\programirane\Exercises\SumMnMax(Array)\bin\Debug\netcoreapp3.1\SumMnMax(Array).pdb
+C:\Users\жоро\Documents\на коце\programirane\Exercises\SumMnMax(Array)\obj\Debug\netcoreapp3.1\SumMnMax(Array).csproj.CoreCompileInputs.cache
+C:\Users\жоро\Documents\на коце\programirane\Exercises\SumMnMax(Array)\obj\Debug\netcoreapp3.1\SumMnMax(Array).AssemblyInfoInputs.cache
+C:\Users\жоро\Documents\на коце\programirane\Exercises\SumMnMax(Array)\obj\Debug\netcoreapp3.1\SumMnMax(Array).AssemblyInfo.cs
+C:\Users\жоро\Documents\на коце\programirane\Exercises\SumMnMax(Array)\obj\Debug\netcoreapp3.1\SumMnMax(Array).dll
+C:\Users\жоро\Documents\на коце\programirane\Exercises\SumMnMax(Array)\obj\Debug\netcoreapp3.1\SumMnMax(Array).pdb
+C:\Users\жоро\Documents\на коце\programirane\Exercises\SumMnMax(Array)\obj\Debug\netcoreapp3.1\SumMnMax(Array).genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\жоро\Documents\на коце\programirane\Exercises\SumIntArrays\bin\Debug\netcoreapp3.1\SumIntArrays.exe
+C:\Users\жоро\Documents\на коце\programirane\Exercises\SumIntArrays\bin\Debug\netcoreapp3.1\SumIntArrays.deps.json
+C:\Users\жоро\Documents\на коце\programirane\Exercises\SumIntArrays\bin\Debug\netcoreapp3.1\SumIntArrays.runtimeconfig.json
+C:\Users\жоро\Documents\на коце\programirane\Exercises\SumIntArrays\bin\Debug\netcoreapp3.1\SumIntArrays.runtimeconfig.dev.json
+C:\Users\жоро\Documents\на коце\programirane\Exercises\SumIntArrays\bin\Debug\netcoreapp3.1\SumIntArrays.dll
+C:\Users\жоро\Documents\на коце\programirane\Exercises\SumIntArrays\bin\Debug\netcoreapp3.1\SumIntArrays.pdb
+C:\Users\жоро\Documents\на коце\programirane\Exercises\SumIntArrays\obj\Debug\netcoreapp3.1\SumIntArrays.csproj.CoreCompileInputs.cache
+C:\Users\жоро\Documents\на коце\programirane\Exercises\SumIntArrays\obj\Debug\netcoreapp3.1\SumIntArrays.AssemblyInfoInputs.cache
+C:\Users\жоро\Documents\на коце\programirane\Exercises\SumIntArrays\obj\Debug\netcoreapp3.1\SumIntArrays.AssemblyInfo.cs
+C:\Users\жоро\Documents\на коце\programirane\Exercises\SumIntArrays\obj\Debug\netcoreapp3.1\SumIntArrays.dll
+C:\Users\жоро\Documents\на коце\programirane\Exercises\SumIntArrays\obj\Debug\netcoreapp3.1\SumIntArrays.pdb
+C:\Users\жоро\Documents\на коце\programirane\Exercises\SumIntArrays\obj\Debug\netcoreapp3.1\SumIntArrays.genruntimeconfig.cache

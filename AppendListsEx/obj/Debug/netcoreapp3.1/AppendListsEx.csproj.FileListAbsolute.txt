@@ -1,0 +1,13 @@
+C:\Users\жоро\Documents\на коце\programirane\Exercises\AppendListsEx\bin\Debug\netcoreapp3.1\AppendListsEx.exe
+C:\Users\жоро\Documents\на коце\programirane\Exercises\AppendListsEx\bin\Debug\netcoreapp3.1\AppendListsEx.deps.json
+C:\Users\жоро\Documents\на коце\programirane\Exercises\AppendListsEx\bin\Debug\netcoreapp3.1\AppendListsEx.runtimeconfig.json
+C:\Users\жоро\Documents\на коце\programirane\Exercises\AppendListsEx\bin\Debug\netcoreapp3.1\AppendListsEx.runtimeconfig.dev.json
+C:\Users\жоро\Documents\на коце\programirane\Exercises\AppendListsEx\bin\Debug\netcoreapp3.1\AppendListsEx.dll
+C:\Users\жоро\Documents\на коце\programirane\Exercises\AppendListsEx\bin\Debug\netcoreapp3.1\AppendListsEx.pdb
+C:\Users\жоро\Documents\на коце\programirane\Exercises\AppendListsEx\obj\Debug\netcoreapp3.1\AppendListsEx.csprojAssemblyReference.cache
+C:\Users\жоро\Documents\на коце\programirane\Exercises\AppendListsEx\obj\Debug\netcoreapp3.1\AppendListsEx.csproj.CoreCompileInputs.cache
+C:\Users\жоро\Documents\на коце\programirane\Exercises\AppendListsEx\obj\Debug\netcoreapp3.1\AppendListsEx.AssemblyInfoInputs.cache
+C:\Users\жоро\Documents\на коце\programirane\Exercises\AppendListsEx\obj\Debug\netcoreapp3.1\AppendListsEx.AssemblyInfo.cs
+C:\Users\жоро\Documents\на коце\programirane\Exercises\AppendListsEx\obj\Debug\netcoreapp3.1\AppendListsEx.dll
+C:\Users\жоро\Documents\на коце\programirane\Exercises\AppendListsEx\obj\Debug\netcoreapp3.1\AppendListsEx.pdb
+C:\Users\жоро\Documents\на коце\programirane\Exercises\AppendListsEx\obj\Debug\netcoreapp3.1\AppendListsEx.genruntimeconfig.cache

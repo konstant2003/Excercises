@@ -1,0 +1,13 @@
+C:\Users\жоро\Documents\на коце\programirane\Exercises\Random numbers in given range\bin\Debug\netcoreapp3.1\Random numbers in given range.exe
+C:\Users\жоро\Documents\на коце\programirane\Exercises\Random numbers in given range\bin\Debug\netcoreapp3.1\Random numbers in given range.deps.json
+C:\Users\жоро\Documents\на коце\programirane\Exercises\Random numbers in given range\bin\Debug\netcoreapp3.1\Random numbers in given range.runtimeconfig.json
+C:\Users\жоро\Documents\на коце\programirane\Exercises\Random numbers in given range\bin\Debug\netcoreapp3.1\Random numbers in given range.runtimeconfig.dev.json
+C:\Users\жоро\Documents\на коце\programirane\Exercises\Random numbers in given range\bin\Debug\netcoreapp3.1\Random numbers in given range.dll
+C:\Users\жоро\Documents\на коце\programirane\Exercises\Random numbers in given range\bin\Debug\netcoreapp3.1\Random numbers in given range.pdb
+C:\Users\жоро\Documents\на коце\programirane\Exercises\Random numbers in given range\obj\Debug\netcoreapp3.1\Random numbers in given range.csprojAssemblyReference.cache
+C:\Users\жоро\Documents\на коце\programirane\Exercises\Random numbers in given range\obj\Debug\netcoreapp3.1\Random numbers in given range.csproj.CoreCompileInputs.cache
+C:\Users\жоро\Documents\на коце\programirane\Exercises\Random numbers in given range\obj\Debug\netcoreapp3.1\Random numbers in given range.AssemblyInfoInputs.cache
+C:\Users\жоро\Documents\на коце\programirane\Exercises\Random numbers in given range\obj\Debug\netcoreapp3.1\Random numbers in given range.AssemblyInfo.cs
+C:\Users\жоро\Documents\на коце\programirane\Exercises\Random numbers in given range\obj\Debug\netcoreapp3.1\Random numbers in given range.dll
+C:\Users\жоро\Documents\на коце\programirane\Exercises\Random numbers in given range\obj\Debug\netcoreapp3.1\Random numbers in given range.pdb
+C:\Users\жоро\Documents\на коце\programirane\Exercises\Random numbers in given range\obj\Debug\netcoreapp3.1\Random numbers in given range.genruntimeconfig.cache

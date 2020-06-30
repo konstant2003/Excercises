@@ -1,0 +1,13 @@
+C:\Users\жоро\Documents\на коце\programirane\Exercises\House\bin\Debug\netcoreapp3.1\House.exe
+C:\Users\жоро\Documents\на коце\programirane\Exercises\House\bin\Debug\netcoreapp3.1\House.deps.json
+C:\Users\жоро\Documents\на коце\programirane\Exercises\House\bin\Debug\netcoreapp3.1\House.runtimeconfig.json
+C:\Users\жоро\Documents\на коце\programirane\Exercises\House\bin\Debug\netcoreapp3.1\House.runtimeconfig.dev.json
+C:\Users\жоро\Documents\на коце\programirane\Exercises\House\bin\Debug\netcoreapp3.1\House.dll
+C:\Users\жоро\Documents\на коце\programirane\Exercises\House\bin\Debug\netcoreapp3.1\House.pdb
+C:\Users\жоро\Documents\на коце\programirane\Exercises\House\obj\Debug\netcoreapp3.1\House.csprojAssemblyReference.cache
+C:\Users\жоро\Documents\на коце\programirane\Exercises\House\obj\Debug\netcoreapp3.1\House.csproj.CoreCompileInputs.cache
+C:\Users\жоро\Documents\на коце\programirane\Exercises\House\obj\Debug\netcoreapp3.1\House.AssemblyInfoInputs.cache
+C:\Users\жоро\Documents\на коце\programirane\Exercises\House\obj\Debug\netcoreapp3.1\House.AssemblyInfo.cs
+C:\Users\жоро\Documents\на коце\programirane\Exercises\House\obj\Debug\netcoreapp3.1\House.dll
+C:\Users\жоро\Documents\на коце\programirane\Exercises\House\obj\Debug\netcoreapp3.1\House.pdb
+C:\Users\жоро\Documents\на коце\programirane\Exercises\House\obj\Debug\netcoreapp3.1\House.genruntimeconfig.cache

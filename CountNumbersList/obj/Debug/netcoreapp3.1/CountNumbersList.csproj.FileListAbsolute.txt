@@ -1,0 +1,12 @@
+C:\Users\жоро\Documents\на коце\programirane\Exercises\CountNumbersList\bin\Debug\netcoreapp3.1\CountNumbersList.exe
+C:\Users\жоро\Documents\на коце\programirane\Exercises\CountNumbersList\bin\Debug\netcoreapp3.1\CountNumbersList.deps.json
+C:\Users\жоро\Documents\на коце\programirane\Exercises\CountNumbersList\bin\Debug\netcoreapp3.1\CountNumbersList.runtimeconfig.json
+C:\Users\жоро\Documents\на коце\programirane\Exercises\CountNumbersList\bin\Debug\netcoreapp3.1\CountNumbersList.runtimeconfig.dev.json
+C:\Users\жоро\Documents\на коце\programirane\Exercises\CountNumbersList\bin\Debug\netcoreapp3.1\CountNumbersList.dll
+C:\Users\жоро\Documents\на коце\programirane\Exercises\CountNumbersList\bin\Debug\netcoreapp3.1\CountNumbersList.pdb
+C:\Users\жоро\Documents\на коце\programirane\Exercises\CountNumbersList\obj\Debug\netcoreapp3.1\CountNumbersList.csproj.CoreCompileInputs.cache
+C:\Users\жоро\Documents\на коце\programirane\Exercises\CountNumbersList\obj\Debug\netcoreapp3.1\CountNumbersList.AssemblyInfoInputs.cache
+C:\Users\жоро\Documents\на коце\programirane\Exercises\CountNumbersList\obj\Debug\netcoreapp3.1\CountNumbersList.AssemblyInfo.cs
+C:\Users\жоро\Documents\на коце\programirane\Exercises\CountNumbersList\obj\Debug\netcoreapp3.1\CountNumbersList.dll
+C:\Users\жоро\Documents\на коце\programirane\Exercises\CountNumbersList\obj\Debug\netcoreapp3.1\CountNumbersList.pdb
+C:\Users\жоро\Documents\на коце\programirane\Exercises\CountNumbersList\obj\Debug\netcoreapp3.1\CountNumbersList.genruntimeconfig.cache

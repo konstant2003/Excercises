@@ -1,0 +1,13 @@
+C:\Users\жоро\Documents\на коце\programirane\Exercises\Play with int double and string\bin\Debug\netcoreapp3.1\Play with int double and string.exe
+C:\Users\жоро\Documents\на коце\programirane\Exercises\Play with int double and string\bin\Debug\netcoreapp3.1\Play with int double and string.deps.json
+C:\Users\жоро\Documents\на коце\programirane\Exercises\Play with int double and string\bin\Debug\netcoreapp3.1\Play with int double and string.runtimeconfig.json
+C:\Users\жоро\Documents\на коце\programirane\Exercises\Play with int double and string\bin\Debug\netcoreapp3.1\Play with int double and string.runtimeconfig.dev.json
+C:\Users\жоро\Documents\на коце\programirane\Exercises\Play with int double and string\bin\Debug\netcoreapp3.1\Play with int double and string.dll
+C:\Users\жоро\Documents\на коце\programirane\Exercises\Play with int double and string\bin\Debug\netcoreapp3.1\Play with int double and string.pdb
+C:\Users\жоро\Documents\на коце\programirane\Exercises\Play with int double and string\obj\Debug\netcoreapp3.1\Play with int double and string.csprojAssemblyReference.cache
+C:\Users\жоро\Documents\на коце\programirane\Exercises\Play with int double and string\obj\Debug\netcoreapp3.1\Play with int double and string.csproj.CoreCompileInputs.cache
+C:\Users\жоро\Documents\на коце\programirane\Exercises\Play with int double and string\obj\Debug\netcoreapp3.1\Play with int double and string.AssemblyInfoInputs.cache
+C:\Users\жоро\Documents\на коце\programirane\Exercises\Play with int double and string\obj\Debug\netcoreapp3.1\Play with int double and string.AssemblyInfo.cs
+C:\Users\жоро\Documents\на коце\programirane\Exercises\Play with int double and string\obj\Debug\netcoreapp3.1\Play with int double and string.dll
+C:\Users\жоро\Documents\на коце\programirane\Exercises\Play with int double and string\obj\Debug\netcoreapp3.1\Play with int double and string.pdb
+C:\Users\жоро\Documents\на коце\programirane\Exercises\Play with int double and string\obj\Debug\netcoreapp3.1\Play with int double and string.genruntimeconfig.cache
